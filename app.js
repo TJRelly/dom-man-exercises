@@ -19,7 +19,6 @@ footer.classList.add("main");
 footer.classList.remove("main");
 // 8. Create a new li element.
 const newLi = document.createElement("li");
-console.log(typeof newLi)
 // 9. Give the li the text “four”.
 newLi.textContent = "four";
 // 10. Append the li to the ul element.
